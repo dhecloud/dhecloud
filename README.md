@@ -3,4 +3,4 @@
 
 - 📫 How to reach me **andrewkjj@gmail.com**
 
-- 📄 Know about my experiences [https://dhecloud.github.io/](https://dhecloud.github.io/)
+- 📄 Visit my personal blog [here](www.dhecloud.xyz)
