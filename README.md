@@ -11,7 +11,7 @@ This GitHub is a mix of research code, practical ML pipelines, and personal side
 
 - GitHub: https://github.com/dhecloud  
 - Email: **andrewkjj@gmail.com**
-- 📄 Check out my [CV / Resume](./CV.pdf)
+- 📄 Check out my [CV / Resume](./cv.pdf)
 
 ---
 
